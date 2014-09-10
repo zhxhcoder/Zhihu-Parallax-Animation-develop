@@ -10,7 +10,6 @@ import android.util.SparseArray;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextSwitcher;
-
 import com.viewpagerindicator.CirclePageIndicator;
 
 public class SplashActivity extends ActionBarActivity {
