@@ -1,0 +1,2 @@
+include ':app', ':library', ':Android-ViewPagerIndicator'
+project(':library').projectDir = new File('Android-ViewPagerIndicator/library')
