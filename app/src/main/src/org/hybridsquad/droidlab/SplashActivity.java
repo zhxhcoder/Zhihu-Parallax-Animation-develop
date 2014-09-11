@@ -43,9 +43,6 @@ public class SplashActivity extends ActionBarActivity {
 
         mAdapter = new FragmentAdapter(getSupportFragmentManager());
         addGuide(new FirstGuideFragment());
-        addGuide(new SecondGuideFragment());
-        addGuide(new ThirdGuideFragment());
-        addGuide(new FourthGuideFragment());
         addGuide(new FifthGuideFragment());
         addGuide(new SixthGuideFragment());
 
